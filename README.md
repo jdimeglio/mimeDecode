@@ -29,7 +29,7 @@ $params['crlf']           = "\r\n";
 $Decoder  = new Mail_mimeDecode($string);
 $structure = $Decoder->decode($params);
 
-PS: im not a PHP programmer, just in a past life ivve programmed a bunch of OOP code. 
+PS: im not a PHP programmer, just in a past life ive programmed a bunch of OOP code. 
 
 :-) 
 
