@@ -12,7 +12,7 @@
  *  | you are STRONGLY recommended to use the php extensions.              |
  *  +----------------------------------------------------------------------+
  *
- * Compatible with PHP versions 4 and 5
+ * Compatible with PHP versions 8.0.30 {patched}
  *
  * LICENSE: This LICENSE is in the BSD license style.
  * Copyright (c) 2002-2003, Richard Heyes <richard@phpguru.org>
