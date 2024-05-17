@@ -1,5 +1,5 @@
 # mimeDecode
-mimeDecode patched for PHP 8
+mimeDecode patched for PHP 8 (fixed)
 
 mimeDecode.php is part of library provided by https://pear.php.net/manual/en/package.mail.mail-mimedecode.php and stopped working for me when i upgraded my PHP to version 8.
 Several code amenedments between PHP5, PHP7 and PHP8 meant the code stopped working.  It was just easier that i fix/patch the file instead of rewriting my app.
